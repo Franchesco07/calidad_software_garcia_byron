@@ -1,4 +1,5 @@
 # Calidad de Software
+# Autor : Byron GArcía
 
 Este repositorio tiene como objetivo servir como referencia básica para la materia de calidad de software. Aquí se presentan conceptos clave sobre la validación de software, la importancia de las pruebas y los distintos tipos de pruebas que ayudan a asegurar que una aplicación cumpla con los requisitos y la calidad esperada.
 
